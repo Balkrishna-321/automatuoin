@@ -1,0 +1,6 @@
+#CommonDataStore
+#Tue Sep 03 14:49:28 IST 2024
+password=password
+url=http\://localhost\:8888/
+Browser=chrome
+username=admin
